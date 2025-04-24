@@ -20,7 +20,7 @@ A final-year Information Technology student with a strong focus on cybersecurity
 </p>
 
 ### 🚀 Sample Project
-Check out my project here 👉 [🦭dev charlie project](http://arunardor.github.io/Dev-Charlie/)
+Check out my project here 👉 [🦭dev charlie project](https://github.com/ArunArdor/Dev-Charlie)
 
 ### Socials
 
